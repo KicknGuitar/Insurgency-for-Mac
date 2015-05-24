@@ -22,6 +22,7 @@ Notes.
 	There are commands on the file that I am uncertain if they are needed (such as the sound commands from Praetor192). Others I have simply removed. Compare it with the sources' cfgs for differences.
 	"//" tells the computer to disregard that line. I have used them to "turn off" commands that are listed as one of the tiered cheats or server-side commands. It's dead space and can be removed unless you want them for when you're on a server that let's you use them. 
 
+
 ==Installing=======
 ==Priority Script==
 
