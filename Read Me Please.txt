@@ -40,7 +40,7 @@ Notes.
 	Fin.
 
 
-===GIT CONTENTS===
+===GIT FOLDER CONTENTS===
 All files in the git are from the following sources except the files in "Kickn's Edits". 
 
 • 11.11.11
