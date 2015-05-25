@@ -58,7 +58,7 @@ All files in the git are from the following sources except the files in "Kickn's
 
 ===OTHER BITS====
 Other bits of info related to removing delay and making your graphics look like lego bricks:
-• Another "How low can I go" Reddit thread.
+• Another "How low can I go" Reddit thread
 	http://www.reddit.com/r/insurgency/comments/2s5iem/lowering_settings_past_what_ingame_allows/
 • Chris Down's suggestion for understanding Source's Networking - Straight from the devs
 	http://developer.valvesoftware.com/wiki/Source_Multiplayer_Networking
