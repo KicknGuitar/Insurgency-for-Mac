@@ -60,11 +60,12 @@ All files in the git are from the following sources except the files in "Kickn's
 Other bits of info related to removing delay and making your graphics look like lego bricks:
 • Another "How low can I go" Reddit thread
 	http://www.reddit.com/r/insurgency/comments/2s5iem/lowering_settings_past_what_ingame_allows/
-• Chris Down's suggestion for understanding Source's Networking - Straight from the devs
+• Chris Down's suggestion for understanding Source's Networking, and some sound info - Straight from the devs
 	http://developer.valvesoftware.com/wiki/Source_Multiplayer_Networking
+	http://forums.nvidia.com/index.php?showtopic=65161
 • A list of Insurgency console commands
 	http://www.gamerconfig.eu/commands/insurgency/
-• Another Ccnsole command list
+• Another Console command list
 	http://jballou.com/insurgency/cvarlist.php
 • Jared Ballou's amazing Insurgency tools and info - Extras for Hosts
 	http://jballou.com/insurgency/
